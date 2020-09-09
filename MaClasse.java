@@ -8,6 +8,6 @@ public class UneClasse
 	// Le constructeur
 	public UneClasse()
 	{
-		mSize=50;
+		mSize=10;
 	}
 }
